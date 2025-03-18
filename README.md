@@ -22,6 +22,12 @@ A modern Angular 15 application for managing posts and users, now featuring **An
 
 ---
 
+## Demo Video
+Watch our demo video for the test application:  
+[Installation and Overview of Test Application](https://youtu.be/pnItMPW2JiE)
+
+---
+
 ## 📂 Project Structure
 ```
 src/
